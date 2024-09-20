@@ -1,6 +1,8 @@
 # Students Exam Results Analysis
 ## Business Understanding and questions
-This project aims to figure out what exactly determines the success (or downfall) of different students? I wanted to see if any apparent hypotheses are oversights and if there are some hidden insights that I can find if so why? I have perviously completed a project based on Walmart Sales and I wanted to do some analysis that was more eduacationl as opposed to "how can I make this company more money". The questions explored were:
+This project aims to figure out what exactly determines the success (or downfall) of different students? I wanted to see if any apparent hypotheses are oversights and if there are some hidden insights that I can find if so why? I have perviously completed a project based on Walmart Sales and I wanted to do some analysis that was more eduacationl as opposed to "how can I make this company more money".
+
+The questions explored were:
 - **Parental Involvement** - Should parents be more laid back or more proactive?
 - **Access to Resources** - Does more access to resources necessarily mean better exam score?
 - **Hard work vs Smart work** - Does spending more time working always result in higher grades?
