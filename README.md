@@ -3,17 +3,18 @@
 This analysis aims to explore and identify the key factors that contribute to the academic success or struggles of students. By examining various aspects such as attendance, socio-economic background, parental involvement, study habits, and more, this project seeks to uncover patterns and correlations that may influence student performance. The goal of leveraging data analysis and visualisation techniques is to provide actionable insights that can inform educators, parents, and policymakers.
 
 Insights and recommendations are provided on the following key areas:
-- **Parental Involvement** - Should parents be more laid back or proactive?
-  
-- **Access to Resources** - Does better access to resources mean better exam scores?
-  
-- **Hard work vs Smart work** - Does spending more time working always result in higher grades?
-  
-- **Prior Exam Records** - Are prior exam records telling of a student’s final grade?
-  
-- **Public Or Private School** - Does a private school have a greater advantage over a state/ public school?
+- **Parental Involvement:** An investigation into the optimal level of parental engagement, exploring whether a more laid-back or proactive approach yields better academic outcomes for students.
 
-- **Physical Activities** - Do physical activities influence exam scores?
+- **Access to Resources:** An analysis of the relationship between students’ access to academic resources and their exam performance, assessing whether increased access consistently leads to higher scores.
+
+- **Hard Work vs Smart Work:** An assessment of study habits, examining whether longer study hours correlate with better grades or if strategic, efficient study methods offer greater academic returns.
+
+- **Prior Exam Records:** An evaluation of the predictive power of previous academic performance and how well earlier exam results correlate with final grade outcomes.
+
+- **Public or Private School:** A comparative study of students' performance across school types, assessing whether private school education offers a consistent advantage over public schooling.
+
+- **Physical Activities:** A statistical analysis of the relationship between participation in physical activities and academic achievement, exploring whether exercise contributes positively to exam performance.
+
 
 ## Key Deliverables and Navigational Links
 
@@ -55,6 +56,7 @@ The data consists of one table, `Student_Performance_Factors`, with **21 columns
 # Executive Summary
 
 ## Overview of Findings
+![image](https://github.com/user-attachments/assets/ff694a4f-124f-404d-ab02-67d58291cc06)
 
 Please refer to the [students' performance presentation](https://github.com/AdnanH901/Students_exam_results_analysis/blob/main/Students%20Exam%20Results%20Analysis.pdf) for further information.
 
@@ -72,8 +74,10 @@ Please refer to the [students' performance presentation](https://github.com/Adna
 
 # Insights Deep Dive
 
-## Insights 1
-***FURTHER ANALYSIS OF INSIGHT 1***
+## Parental Involvement Analysis
+![image](https://github.com/user-attachments/assets/a2a79cfa-ab5c-4731-ad72-1e6772acc7e1)
+
+The data shows how access to resources (top label) and the parental involvement (bottom label) affects the overall grades of a student. Overall there is not a huge difference in scores with general averages being around **65**. However, students perform better when they have higher access to resources regardless of involved their parents are. Conversly, students perform better when their parents are more involved regardless of the level of resources the student has. Overall <ins>***greater access to resources and more parental involvment leads to greater academic success***</ins>
 
 ## Insights 2
 ***FURTHER ANALYSIS OF INSIGHT 2***
@@ -98,3 +102,5 @@ Throughout the analysis, multiple assumptions and caveats were made to manage ch
 ## Caveats
 
 ***INSERT CAVEATS HERE***
+
+(high, medium and low is not defined properly for access to resources, parental involvement)
