@@ -77,7 +77,7 @@ Please refer to the [students' performance presentation](https://github.com/Adna
 ## Parental Involvement Analysis
 ![image](https://github.com/user-attachments/assets/a2a79cfa-ab5c-4731-ad72-1e6772acc7e1)
 
-The data shows how access to resources (top label) and the parental involvement (bottom label) affects the overall grades of a student. Overall there is not a huge difference in scores with general averages being around **65**. However, students perform better when they have higher access to resources regardless of involved their parents are. Conversly, students perform better when their parents are more involved regardless of the level of resources the student has. Overall <ins>***greater access to resources and more parental involvment leads to greater academic success***</ins>
+The data shows how access to resources (top label) and the parental involvement (bottom label) affects the overall grades of a student. Overall there is not a huge difference in scores with general averages being around **65**. However, students perform better when they have higher access to resources regardless of involved their parents are. Conversly, students perform better when their parents are more involved regardless of the level of resources the student has. Overall <ins>***greater access to resources and more parental involvment leads to greater academic success***</ins>.
 
 ## Insights 2
 ***FURTHER ANALYSIS OF INSIGHT 2***
