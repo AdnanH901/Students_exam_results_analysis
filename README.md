@@ -56,7 +56,7 @@ The data consists of one table, `Student_Performance_Factors`, with **21 columns
 
 ## Overview of Findings
 
-Please refer to the [students performance presentation](https://github.com/AdnanH901/Students_exam_results_analysis/blob/main/Students%20Exam%20Results%20Analysis.pdf) for further information.
+Please refer to the [students' performance presentation](https://github.com/AdnanH901/Students_exam_results_analysis/blob/main/Students%20Exam%20Results%20Analysis.pdf) for further information.
 
 - **More Parental Support** - Although the impact is small, students whose parents are more involved tend to perform better.
   
