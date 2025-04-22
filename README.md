@@ -77,10 +77,11 @@ Please refer to the [students' performance presentation](https://github.com/Adna
 ## Parental Involvement Analysis
 ![image](https://github.com/user-attachments/assets/a2a79cfa-ab5c-4731-ad72-1e6772acc7e1)
 
-- **Access to Resources & Parental Involvement Analysis:** Regardless of how many resources an individual is given, the average student grade increases with better parental involvement. This can be due to a multitude of reasons, such as,
+- **Parental Involvement Insights:** Regardless of how many resources an individual is given, the average student grade increases with better parental involvement. This can be due to a multitude of reasons, such as,
   - **Accountability:** Parents who monitor their child's progress and assignments may instinctively force the child to hold themselves accountable for their work due to a child innate urge to please their parents.
   - **Emotional Support:** Children often feel supported and valued when they know their parents are involved. That emotional backing can boost their confidence and motivation to do well in school.
   - **Structure & Routine** Involved parents often help create consistent routines for homework, studying, and sleep. That structure leads to better time management and focus.
+- **Access to Resources Insights:** 
 - Furthermore, irrespective of parental involvement levels, better access to resources
 
 ## Insights 2
