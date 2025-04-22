@@ -70,14 +70,14 @@ Please refer to the [students' performance presentation](https://github.com/Adna
   
 - **More Hours = Better Grades** - Students who study more hours, regardless of skill/ attendance, perform better.
   
-- **Unrealistic Previous Exams** - The previous exams were a lot easier than the final exams, not a clear indication of the final score of a student.
+- **Unrealistic Previous Exams** — The previous exams were a lot easier than the final exams, which does not indicate a student's final score.
 
 # Insights Deep Dive
 
 ## Parental Involvement Analysis
 ![image](https://github.com/user-attachments/assets/a2a79cfa-ab5c-4731-ad72-1e6772acc7e1)
 
-The data shows how access to resources (top label) and the parental involvement (bottom label) affects the overall grades of a student. Overall there is not a huge difference in scores with general averages being around **65**. However, students perform better when they have higher access to resources regardless of involved their parents are. Conversly, students perform better when their parents are more involved regardless of the level of resources the student has. Overall <ins>***greater access to resources and more parental involvment leads to greater academic success***</ins>.
+- **Greater Access to Resources & Parental Involvement Leads to Success:** The data shows how access to resources (top label) and parental involvement (bottom label) affect the overall grades of a student. Overall, there is not a huge difference in scores, with general averages being around **65**. However, students perform better when they have higher access to resource, regardless of involved their parents are involved. Conversely, students perform better when their parents are more involved, regardless of the level of resources the student has.
 
 ## Insights 2
 ***FURTHER ANALYSIS OF INSIGHT 2***
@@ -103,4 +103,4 @@ Throughout the analysis, multiple assumptions and caveats were made to manage ch
 
 ***INSERT CAVEATS HERE***
 
-(high, medium and low is not defined properly for access to resources, parental involvement)
+(High, medium and low are not defined properly for access to resources, parental involvement)
