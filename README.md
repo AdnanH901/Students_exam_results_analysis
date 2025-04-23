@@ -87,11 +87,16 @@ Please refer to the [students' performance presentation](https://github.com/Adna
 ![image](https://github.com/user-attachments/assets/7922a18f-5232-4b57-9cbc-3b244cb9c588)
 
 - **Numerous Similarities Between School Types:** Both public and private schools have similar breadowns of teaching quality, with low qualities between **10%**-**11%**, medium qualities between **59%**-**61%** and high qualities between **29%**-**30%** respectively. Both types of schools have similar results, with higher teaching qualities leading to better overall student success.
-- **Public schools outbeat private schools:** Students in public schools with high teacher quality perform the best, with average scores of **68**, with the rest trailing between **66%** and **67%**. 
+- *Public Schools Outperform Private Schools:** Students in public schools with high teacher quality perform the best, with average scores of **68**, with the rest trailing between **66%** and **67%** on average. This shows that public schools sampled are performing better than private schools sampled, which is unintuitive. This could be a result of,
+  - **Equal Levels of Teaching:** The amount of effort put in by teachers is the same, no matter what type of school a child goes to. Or the teaching methods, work given and strategies implemented from both types of school amount to overall similar results.
+  - **Access to Diverse Resources:** Public schools may offer a wider range of extracurricular programs, community partnerships, and specialised support services (e.g., counselling, mentoring, after‑school tutoring) that bolster student performance.
+  - **Greater Diversity & Peer Learning Effects:** Public schools are often more diverse and bigger than private schools. This allows for richer peer-to-peer learning environments and greater chances for students to find compatible peers to collaborate with. This, in turn, enables students to benefit from different perspectives and collaborative study groups.
+  - **Accountability and Oversight:** Public school teachers are often subject to more standardised evaluations, benchmarking, and regulatory oversight, which can drive a consistent focus on curriculum standards and measurable outcomes.
 
-
-## Insights 3
-***FURTHER ANALYSIS OF INSIGHT 3***
+## Attendance & Work Ethic
+<img src="https://github.com/user-attachments/assets/fe1dc5fb-f39f-42e7-add1-6dbc225c7efe" width=700>
+<img src="https://github.com/user-attachments/assets/ca6021a5-3f50-4080-af4d-b7b208deffa7" width=300>
+**Greater Attendance Leads to Better Grades:** The data shows two clear clusters, with the bottom cluster (defined as average students) being more populated than the top cluster (defined as academically gifted students). Both show greater success in 
 
 # Recommendations:
 
