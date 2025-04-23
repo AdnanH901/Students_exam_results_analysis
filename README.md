@@ -137,7 +137,9 @@ Throughout the analysis, multiple assumptions and caveats were made to manage ch
 
 ## Assumptions
 
-***INSERT ASSUMPTIONS HERE***
+Assumption 1: The data drawn from [Kaggle](https://www.kaggle.com/datasets) is assumed to be an accurate depiction of academic performance and student behaviour.
+
+Assumption 2: The sample of students in the data is an accurat representation of all students, their behaviour and habits.
 
 ## Caveats
 
