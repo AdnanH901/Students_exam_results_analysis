@@ -74,7 +74,7 @@ Please refer to the [students' performance presentation](https://github.com/Adna
 
 # Insights Deep Dive
 
-## Parental Involvement Analysis
+## Parental Involvement & Access to Resources Analysis
 ![image](https://github.com/user-attachments/assets/a2a79cfa-ab5c-4731-ad72-1e6772acc7e1)
 
 - **Parental Involvement Insights:** Regardless of how many resources an individual is given, the average student grade increases with better parental involvement. This can be due to a multitude of reasons, such as,
@@ -82,10 +82,13 @@ Please refer to the [students' performance presentation](https://github.com/Adna
   - **Emotional Support:** Children often feel supported and valued when they know their parents are involved. That emotional backing can boost their confidence and motivation to do well in school.
   - **Structure & Routine** Involved parents often help create consistent routines for homework, studying, and sleep. That structure leads to better time management and focus.
 - **Access to Resources Insights:** Irrespective of the level of involvement of the parents, the average student's grades increase with more access to resoruces This is to be expected as students who have better access to resources can learn from many different sources, have access to more questions/ information and can grow and develope more. Overall <ins>***higher levels of parental involvement and greater access to educational resources directly correlate with the academic success of a student.***</ins>
-- Furthermore, irrespective of parental involvement levels, better access to resources
 
-## Insights 2
-***FURTHER ANALYSIS OF INSIGHT 2***
+## Public or Private Schools
+![image](https://github.com/user-attachments/assets/7922a18f-5232-4b57-9cbc-3b244cb9c588)
+
+- **Numerous Similarities Between School Types:** Both public and private schools have similar breadowns of teaching quality, with low qualities between **10%**-**11%**, medium qualities between **59%**-**61%** and high qualities between **29%**-**30%** respectively. Both types of schools have similar results, with higher teaching qualities leading to better overall student success.
+- *Public schools outbeat privtStudents in public schools with high teacher quality perform the best, with average scores of **68**, with the rest trailing between **66%** and **67%**.  
+
 
 ## Insights 3
 ***FURTHER ANALYSIS OF INSIGHT 3***
