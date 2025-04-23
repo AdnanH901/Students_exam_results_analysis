@@ -127,9 +127,9 @@ Based on the insights and findings above, we would recommend that schools, teach
 
 - **Integrate Home–School Resource Platforms:** These can be things such as:
   - **Unified Online Portal:** A single platform where teachers upload recommended readings, tutorial videos, curated web resources, and interactive modules/ practice exercises linked to classroom lessons.
-  - **Gamified Progress Tracking:** Incorporate badges or points when students—and by extension parents—complete extra resource modules, encouraging joint parent–child engagement. Parents can see and remind students to engage with these materials, reinforcing involvement.
+  - **Gamified Progress Tracking:** Incorporate badges or points when students and, by extension, parents complete extra resource modules, encouraging joint parent–child engagement. Parents can see and remind students to engage with these materials, reinforcing involvement.
  
-- **Early‑Warning & Outreach:** Use attendance data to flag students falling below 85% attendance. Counsellors or mentors can then reach out—via phone, text or even home visits to understand barriers (such as transportation, health, family obligations, etc) and connect families to solutions.
+- **Early Warning & Outreach:** Use attendance data to flag students falling below 85% attendance. Counsellors or mentors can then reach out by phone, text or even home visits to understand barriers (such as transportation, health, family obligations, etc) and connect families to solutions.
 
 # Assumptions and Caveats:
 
@@ -139,7 +139,7 @@ Throughout the analysis, multiple assumptions and caveats were made to manage ch
 
 Assumption 1: The data drawn from [Kaggle](https://www.kaggle.com/datasets) is assumed to be an accurate depiction of academic performance and student behaviour.
 
-Assumption 2: The sample of students in the data is an accurat representation of all students, their behaviour and habits.
+Assumption 2: The sample of students in the data is an accurate representation of all students, their behaviour and habits.
 
 ## Caveats
 
