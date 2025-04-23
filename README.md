@@ -70,7 +70,7 @@ Please refer to the [students' performance presentation](https://github.com/Adna
   
 - **More Hours = Better Grades** - Students who study more hours, regardless of skill/ attendance, perform better.
   
-- **Unrealistic Previous Exams** — The previous exams were a lot easier than the final exams, which does not indicate a student's final score.
+- **Unrealistic Previous Exams** — The previous exams were much easier than the final ones, which does not indicate a student's final score.
 
 # Insights Deep Dive
 
@@ -78,10 +78,10 @@ Please refer to the [students' performance presentation](https://github.com/Adna
 ![image](https://github.com/user-attachments/assets/a2a79cfa-ab5c-4731-ad72-1e6772acc7e1)
 
 - **Parental Involvement Insights:** Regardless of how many resources an individual is given, the average student grade increases with better parental involvement. This can be due to a multitude of reasons, such as,
-  - **Accountability:** Parents who monitor their child's progress and assignments may instinctively force the child to hold themselves accountable for their work due to a child innate urge to please their parents.
+  - **Accountability:** Parents who monitor their child's progress and assignments may instinctively force the child to hold themselves accountable for their work due to their innate urge to please their parents.
   - **Emotional Support:** Children often feel supported and valued when they know their parents are involved. That emotional backing can boost their confidence and motivation to do well in school.
   - **Structure & Routine** Involved parents often help create consistent routines for homework, studying, and sleep. That structure leads to better time management and focus.
-- **Access to Resources Insights:** 
+- **Access to Resources Insights:** Irrespective of the level of involvement of the parents, the average student's grades increase with more access to resoruces This is to be expected as students who have better access to resources can learn from many different sources, have access to more questions/ information and can grow and develope more. Overall <ins>**higher levels of parental involvement and greater access to educational resources directly correlate with the academic success of a student.**</ins>
 - Furthermore, irrespective of parental involvement levels, better access to resources
 
 ## Insights 2
