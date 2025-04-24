@@ -137,10 +137,11 @@ Throughout the analysis, multiple assumptions and caveats were made to manage ch
 
 ## Assumptions
 
-Assumption 1: The data drawn from [Kaggle](https://www.kaggle.com/datasets) is assumed to be an accurate depiction of academic performance and student behaviour.
+- **Assumption 1:** The data drawn from [Kaggle](https://www.kaggle.com/datasets) is assumed to accurately depict academic performance and student behaviour.
 
-Assumption 2: The sample of students in the data is an accurate representation of all students, their behaviour and habits.
+- **Assumption 2:** The data sample accurately represents all students and their behaviour and habits.
+
 
 ## Caveats
 
-- High, medium and low are not properly defined for access to resources, parental involvement and more. There should be another datapoint that explains why such variables are high, medium or low. 
+- **Caveat 1:** ** High, medium and low are not properly defined for access to resources, parental involvement and more. There should be another datapoint that explains why such variables are high, medium or low. 
