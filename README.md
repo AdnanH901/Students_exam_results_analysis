@@ -18,11 +18,11 @@ Insights and recommendations are provided on the following key areas:
 
 ## Key Deliverables and Navigational Links
 
-Targeted SQL queries regarding various business questions are found [here](https://github.com/AdnanH901/Students_exam_results_analysis/blob/main/students.sql).
+- Targeted SQL queries regarding various business questions are found [here](https://github.com/AdnanH901/Students_exam_results_analysis/blob/main/students.sql).
 
-The Tableau dashboards presenting insights in the key areas explored are found [here](https://github.com/AdnanH901/Students_exam_results_analysis/blob/main/students.twb).
+- The Tableau dashboards presenting insights in the key areas explored are found [here](https://github.com/AdnanH901/Students_exam_results_analysis/blob/main/students.twb).
 
-To quickly view the overview of findings and recommendations, click on [Overview of Findings](#overview-of-findings) and [Recommendations](#recommendations).
+- To quickly view the overview of findings and recommendations, click on [Overview of Findings](#overview-of-findings) and [Recommendations](#recommendations).
 
 # Data Structure & Initial Checks
 ## ERD Diagram of Data
